@@ -1,0 +1,3 @@
+# Patrón Strategy en PHP: Optimiza la Selección Dinámica de Comportamientos en tu Código
+
+- En este tutorial, aprenderás a implementar el Patrón Strategy en PHP para mejorar la flexibilidad de tu código. Descubre cómo este patrón de diseño te permite seleccionar dinámicamente el comportamiento de los objetos en tiempo de ejecución, facilitando la implementación de algoritmos intercambiables sin modificar la estructura de las clases. Ideal para proyectos que requieren la variación de comportamientos de manera eficiente y organizada. ¡Optimiza y potencia la arquitectura de tus aplicaciones PHP con el Patrón Strategy!
